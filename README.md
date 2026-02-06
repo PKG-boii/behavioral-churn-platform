@@ -75,3 +75,6 @@ The system enables businesses to:
    ```python
    import joblib
    model = joblib.load("models/final_churn_model.pkl")
+
+## 🚀 Live Demo
+🔗 https://behavioral-churn-platform-62njiubhvvzvkqhlhez2ix.streamlit.app/
